@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teamAxceligent", "teamAxceligent\teamAxceligent.csproj", "{A852DE88-8F2B-4352-B327-06115755EE71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biggest NeighborSum", "teamAxceligent\Biggest NeighborSum.csproj", "{A852DE88-8F2B-4352-B327-06115755EE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserClass", "User\UserClass.csproj", "{E17777B2-A5C4-43E4-BC3B-D3263C5D4DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnTheRobot", "JohnTheRobot\JohnTheRobot.csproj", "{462BD99F-81DB-4DED-8105-EE2E2A400EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaSettings", "AlexaProject\AlexaSettings.csproj", "{BF9ADA12-66AD-4D64-9266-B2291B59DF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameConstructor", "GameConstructor\GameConstructor.csproj", "{5D248F30-7B3F-4075-810C-AA32C03B14DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{AC19C6CA-BDAC-4085-8572-6BB39F327BA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{A852DE88-8F2B-4352-B327-06115755EE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A852DE88-8F2B-4352-B327-06115755EE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A852DE88-8F2B-4352-B327-06115755EE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17777B2-A5C4-43E4-BC3B-D3263C5D4DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17777B2-A5C4-43E4-BC3B-D3263C5D4DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17777B2-A5C4-43E4-BC3B-D3263C5D4DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17777B2-A5C4-43E4-BC3B-D3263C5D4DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462BD99F-81DB-4DED-8105-EE2E2A400EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462BD99F-81DB-4DED-8105-EE2E2A400EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462BD99F-81DB-4DED-8105-EE2E2A400EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462BD99F-81DB-4DED-8105-EE2E2A400EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9ADA12-66AD-4D64-9266-B2291B59DF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9ADA12-66AD-4D64-9266-B2291B59DF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9ADA12-66AD-4D64-9266-B2291B59DF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9ADA12-66AD-4D64-9266-B2291B59DF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D248F30-7B3F-4075-810C-AA32C03B14DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D248F30-7B3F-4075-810C-AA32C03B14DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D248F30-7B3F-4075-810C-AA32C03B14DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D248F30-7B3F-4075-810C-AA32C03B14DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC19C6CA-BDAC-4085-8572-6BB39F327BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC19C6CA-BDAC-4085-8572-6BB39F327BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC19C6CA-BDAC-4085-8572-6BB39F327BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC19C6CA-BDAC-4085-8572-6BB39F327BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
